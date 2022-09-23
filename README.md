@@ -38,6 +38,6 @@
 
 <section align="center">
   <a href="https://www.java.com/pt-BR/" target="_blank">
-    <img alt="Matheus-SENAC" height="auto" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
+    <img align="center" alt="Matheus-MySQL" height="90" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   </a>
 </section>
